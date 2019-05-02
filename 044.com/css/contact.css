@@ -1,0 +1,84 @@
+body{
+    margin:0;
+    padding:0;
+    background:url(../img/contact_page.gif) no-repeat top fixed;
+    background-size:cover;
+}
+
+
+h1{
+    margin:0;
+    padding:0;
+    color:white;
+}
+
+a{
+    margin:0;
+    padding:0;
+    text-decoration:none;
+    color:white;
+}
+
+.logos{
+    float:left;
+    display:flex;
+    flex-direction:column;
+    width:25%;
+    height:900px;
+    margin-right:3%;
+
+
+}
+
+
+
+#up{
+    text-transform:uppercase;
+}
+
+label{
+    color:white;
+}
+
+
+
+.main{
+    width:1500px;
+    height:500px;
+    padding-top:3%;
+   
+
+}
+
+#email{
+    width:57.5%;
+    height:25px;
+    background:rgba(205, 214, 219, 0.3);
+    border-radius:8px;
+    color:white;
+    border:none;
+
+}
+
+#button{
+    width:150px;
+    height:50px;
+    background:none;
+    border:none;
+}
+
+textarea{
+  background:rgba(205, 214, 219, 0.3);
+  border-radius:8px;
+  color:white;
+  border:none;
+
+}
+
+.l{
+    margin-bottom:3%;
+}
+
+.area{
+    margin-top:3%;
+}

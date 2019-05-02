@@ -1,0 +1,62 @@
+body{
+    margin:0;
+    padding:0;
+    background:url(../img/bg_shop.jpg) no-repeat top fixed;
+    background-size:cover;
+}
+
+a{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+}
+
+h1{
+    margin:0;
+    padding:0;
+}
+
+.logo img{
+    margin-top:3%;
+    margin-left:11%
+}
+
+
+.mid{
+    width:250px;
+    height:900px;
+    display:block;
+    margin:0 auto;
+}
+
+
+section img{
+    display:block;
+    margin:0 auto;
+}
+
+.text{
+    background:white;
+    width:111px;
+    height:44px;
+    margin:0 auto;
+    text-align: center;
+    margin-bottom:15%;
+}
+
+.text h1{
+   padding-top:2%;
+}
+
+section{
+    text-align: center;
+}
+
+.tovar h1{
+    margin-top:5%;
+    margin-bottom:4%;
+}
+
+.logo{
+    position: absolute;
+}

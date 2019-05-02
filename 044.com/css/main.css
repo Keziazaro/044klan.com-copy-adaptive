@@ -1,0 +1,23 @@
+body{
+    margin:0;
+    padding:0;
+    background:url(../img/bg_main.gif) no-repeat top fixed;
+    background-size:cover;
+    overflow: hidden;
+
+}
+
+a{
+    margin:0;
+    padding:0;
+}
+
+.logo img{
+     display:block;
+     margin:0 auto;
+}
+
+section{
+    display:flex;
+}
+
